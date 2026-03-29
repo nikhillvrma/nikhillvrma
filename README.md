@@ -38,12 +38,6 @@
 
 ---
 
-### 📊 Dashboard Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhillvrma&show_icons=true&theme=tokyonight&hide_border=true&height=195" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhillvrma&layout=compact&theme=tokyonight&hide_border=true&height=195" height="195" />
-</p>
-
 ### 🐍 Contribution Activity
 <!-- This area is reserved for the Snake Animation -->
 <picture>
