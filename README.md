@@ -38,6 +38,14 @@
 
 ---
 
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,fastapi,tensorflow,opencv,mysql,git,github,vscode" />
+</p>
+
+---
+
 ### 🐍 Contribution Activity
 <!-- This area is reserved for the Snake Animation -->
 <picture>
