@@ -41,7 +41,20 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,fastapi,tensorflow,opencv,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <!-- <img src="https://skillicons.dev/icons?i=git" /> -->
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
@@ -57,11 +70,13 @@
 ---
 
 ### 🌐 Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/nikhillvrma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="40"/>
   </a>
-  <a href="mailto:nikhilverma1173@gmail.com.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  
+  <a href="mailto:nikhilverma1173@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
   </a>
 </p>
