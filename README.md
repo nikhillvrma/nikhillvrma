@@ -1,14 +1,17 @@
+# <!-- Top Border -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nikhil%20Verma&fontSize=40&fontColor=ffffff" />
+
 # <!-- Dynamic Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Developer;Data+Analyst+&+(AI+Enthusiast)" alt="Typing SVG" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ### ⚡ Technical Philosophy
 > "Building at the intersection of robust web architecture and intelligent data systems. I focus on creating tools that don't just display data, but understand it."
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ### 🛠️ Core Engineering Stack
 | Category | Stack |
@@ -17,7 +20,7 @@
 | **Frontend** | `HTML5`, `CSS3`, `Modern JS` |
 | **Specialized** | `Deep Learning (CNN)`, `OpenCV`, `Data Analysis` |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ### 🚀 Featured Engineering Projects
 
@@ -36,7 +39,7 @@
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ### 🛠️ Tech Stack
 
@@ -57,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ### 🐍 Contribution Activity
 <!-- This area is reserved for the Snake Animation -->
@@ -67,16 +70,25 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nikhillvrma/nikhillvrma/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/nikhillvrma" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" height="40"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="50"/>
   </a>
   
   <a href="mailto:nikhilverma1173@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="50"/>
   </a>
 </p>
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhillvrma&theme=tokyonight" />
+</p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
