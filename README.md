@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ### ⚡ Technical Philosophy
-> "Building at the intersection of robust web architecture and intelligent data systems. I focus on creating tools that don't just display data, but understand it."
+> "Building to learn, Failing to grow, and Coding to solve real-world problems"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
