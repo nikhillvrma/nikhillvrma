@@ -16,9 +16,9 @@
 ### 🛠️ Core Engineering Stack
 | Category | Stack |
 | :--- | :--- |
-| **Languages** | `Python`, `Java`, `C`, `JavaScript` |
-| **Frontend** | `HTML5`, `CSS3`, `Modern JS` |
-| **Specialized** | `Deep Learning (CNN)`, `OpenCV`, `Data Analysis` |
+| **Languages** | `Python`, `Java`, `C`, `SQL` |
+| **Frontend** | `HTML5`, `CSS3`, `Javascript` |
+| **Specialized** | `Pandas`, `Numpy`, `Matplotlib`, `Excel`, `Power BI`, `AI`, `Machine Learning`, `FastAPI`  |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
