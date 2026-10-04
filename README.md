@@ -27,14 +27,24 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🏥 AI Healthcare System</h4>
-      <p>A smart diagnostic application using <b>CNN Deep Learning models</b> to detect diseases from medical imagery. Provides real-time confidence scores and automated medical guidance.</p>
-      <em>Python • Deep Learning • Web Integration</em>
+      <h4>🏥 Creditxcore</h4>
+      <p>Creditxcore is a full-stack web application powered by FastAPI that uses machine learning to predict credit default risk.</p>
+      <em>Python • Machine Learning • Git & Github</em>
     </td>
+    <td width="50%" valign="top">
+      <h4>🏥 DocBot AI</h4>
+      <p>A smart diagnostic application using <b>CNN Deep Learning models</b> to detect diseases from medical imagery. Provides real-time confidence scores and automated medical guidance.</p>
+      <em>Python • Deep Learning • Groq • Web Integration</em>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>👤 FaceRec Attendance + Mail</h4>
       <p>Automated security system utilizing <b>OpenCV</b> for real-time face recognition. Features an integrated SMTP trigger for instant email notifications upon detection.</p>
-      <em>Python • OpenCV • Automation</em>
+      <em>Python • Haar Cascade • LBPH • Automation</em>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Empty cell to maintain balanced 2-column layout -->
     </td>
   </tr>
 </table>
