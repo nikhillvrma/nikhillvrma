@@ -27,7 +27,7 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🏥 Creditxcore</h4>
+      <h4>💳 Creditxcore</h4>
       <p>Creditxcore is a full-stack web application powered by FastAPI that uses machine learning to predict credit default risk.</p>
       <em>Python • Machine Learning • Git & Github</em>
     </td>
