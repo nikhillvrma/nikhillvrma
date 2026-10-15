@@ -32,12 +32,12 @@
     <td width="50%" valign="top">
       <h4>🧑‍💻 Job Data Dashboard</h4>
       <p>Created an interactive Job Data Dashboard in Power BI with drill-through capabilities for job titles, salary ranges, work-from-home stats, top hiring platforms, and global location mapping.</p>
-      <em>Power BI • Git & GitHub</em>
+      <em>Power BI</em>
     </td>
     <td width="50%" valign="top">
       <h4>💳 Creditxcore</h4>
       <p>A full-stack web application powered by FastAPI that leverages machine learning models to analyze financial data and predict credit default risk in real time.</p>
-      <em>Python • FastAPI • Machine Learning • Git & GitHub</em>
+      <em>Python • FastAPI • Machine Learning</em>
     </td>
   </tr>
   <tr>
