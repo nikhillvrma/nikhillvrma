@@ -59,13 +59,19 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,fastapi,mysql,postgres,git,github,vscode" alt="Tech Stack Icons" />
-  <br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <!-- Skillicons Row -->
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,fastapi,mysql,postgres,git,github,vscode" alt="Skillicons" />
+  <br><br>
+  <!-- Data Science & Analytics Square Icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon@latest/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" title="OpenCV" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="48" height="48" alt="Excel" title="Excel" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" />
