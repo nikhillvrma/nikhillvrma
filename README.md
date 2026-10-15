@@ -27,6 +27,11 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
+      <h4>🧑‍💻 Job Data Dashboard</h4>
+      <p>Created a Job Data Dashboard in Power BI where you can Drill through the Job Title and can get specific details for a single job title, including salry ranges, work from home stats , top hiring platforms, and a global map of job locations.</p>
+      <em>Power BI • Git & Github</em>
+    </td>
+    <td width="50%" valign="top">
       <h4>💳 Creditxcore</h4>
       <p>Creditxcore is a full-stack web application powered by FastAPI that uses machine learning to predict credit default risk.</p>
       <em>Python • Machine Learning • Git & Github</em>
@@ -61,11 +66,12 @@
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=fastapi" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=Excel" />
+  <img src="https://skillicons.dev/icons?i=Power BI" />
   <img src="https://skillicons.dev/icons?i=opencv" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=postgresql" />
-  <!-- <img src="https://skillicons.dev/icons?i=git" /> -->
+  <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
